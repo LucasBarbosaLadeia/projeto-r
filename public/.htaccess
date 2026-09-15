@@ -1,0 +1,5 @@
+# Proibir listagem de diretórios
+Options -Indexes
+
+# Forçar index.php
+DirectoryIndex index.php
